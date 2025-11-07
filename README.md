@@ -1,10 +1,7 @@
-Absolutely! I can create a **README for your Simple Chat App** in the **same structured, professional style** as your BloomHub API README. Here’s a complete version:
 
----
+# Chat App API
 
-# Simple Chat App API
-
-**Simple Chat App** is a lightweight real-time chat application backend built with Node.js, Socket.io, and TypeScript. It supports multiple users, real-time messaging, and optional message history storage. The project focuses on type-safe socket events, modular classes for chat management, and a terminal or web client interface.
+** Chat App** is a lightweight real-time chat application backend built with Node.js, Socket.io, and TypeScript. It supports multiple users, real-time messaging, and optional message history storage. The project focuses on type-safe socket events, modular classes for chat management, and a terminal or web client interface.
 
 This README reflects the current features implemented in the repository.
 
